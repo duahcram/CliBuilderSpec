@@ -1,0 +1,6 @@
+version: 5.0.0
+repositories:
+- repository: doc
+  project: mine
+- repository: versioning
+  project: mine
